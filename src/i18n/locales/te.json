@@ -1,0 +1,147 @@
+{
+  "navigation": {
+    "home": "హోమ్",
+    "map": "మ్యాప్",
+    "report": "రిపోర్ట్",
+    "reports": "రిపోర్ట్స్",
+    "profile": "ప్రొఫైల్",
+    "dashboard": "డాష్‌బోర్డ్"
+  },
+  "common": {
+    "loading": "లోడ్ అవుతోంది...",
+    "error": "లోపం",
+    "success": "విజయం",
+    "save": "సేవ్",
+    "cancel": "రద్దు",
+    "submit": "సమర్పించు",
+    "delete": "తొలగించు",
+    "edit": "సవరించు",
+    "view": "చూడు",
+    "back": "వెనుక",
+    "next": "తదుపరి",
+    "previous": "మునుపటి",
+    "search": "వెతుకు",
+    "filter": "ఫిల్టర్",
+    "refresh": "రిఫ్రెష్",
+    "retry": "మళ్లీ ప్రయత్నించు",
+    "close": "మూసివేయి"
+  },
+  "auth": {
+    "login": "లాగిన్",
+    "logout": "సైన్ అవుట్",
+    "register": "రిజిస్టర్",
+    "email": "ఇమెయిల్",
+    "password": "పాస్‌వర్డ్",
+    "confirmPassword": "పాస్‌వర్డ్ నిర్ధారించు",
+    "forgotPassword": "పాస్‌వర్డ్ మర్చిపోయారా?",
+    "rememberMe": "నన్ను గుర్తుంచుకో",
+    "signInWithGoogle": "Google తో సైన్ ఇన్",
+    "dontHaveAccount": "ఖాతా లేదా?",
+    "alreadyHaveAccount": "ఇప్పటికే ఖాతా ఉందా?"
+  },
+  "hazardReport": {
+    "title": "ప్రమాద నివేదిక",
+    "createNew": "కొత్త రిపోర్ట్ సృష్టించు",
+    "type": "ప్రమాద రకం",
+    "severity": "తీవ్రత స్థాయి",
+    "location": "స్థానం",
+    "description": "వివరణ",
+    "media": "ఫోటోలు/వీడియోలు",
+    "submit": "రిపోర్ట్ సమర్పించు",
+    "draft": "డ్రాఫ్ట్‌గా సేవ్ చేయి",
+    "types": {
+      "tsunami": "సునామీ",
+      "cyclone": "తుఫాను",
+      "earthquake": "భూకంపం",
+      "flood": "వరద",
+      "landslide": "కొండచరియలు"
+    },
+    "severityLevels": {
+      "low": "తక్కువ",
+      "medium": "మధ్యమ",
+      "high": "అధిక",
+      "critical": "అత్యంత తీవ్రమైన"
+    },
+    "status": {
+      "draft": "డ్రాఫ్ట్",
+      "pending": "సమీక్షలో",
+      "verified": "ధృవీకరించబడింది",
+      "rejected": "తిరస్కరించబడింది"
+    }
+  },
+  "map": {
+    "title": "ప్రమాద మ్యాప్",
+    "controls": "మ్యాప్ నియంత్రణలు",
+    "layers": "లేయర్లు",
+    "legend": "లెజెండ్",
+    "hazardReports": "ప్రమాద నివేదికలు",
+    "hotspots": "హాట్‌స్పాట్లు",
+    "searchLocation": "స్థానం వెతుకు...",
+    "criticalSeverity": "అత్యంత తీవ్రమైన",
+    "highSeverity": "అధిక తీవ్రత",
+    "mediumSeverity": "మధ్యమ తీవ్రత",
+    "hotspotAreas": "హాట్‌స్పాట్ ప్రాంతాలు"
+  },
+  "dashboard": {
+    "title": "డాష్‌బోర్డ్",
+    "overview": "అవలోకనం",
+    "statistics": "గణాంకాలు",
+    "recentReports": "ఇటీవలి నివేదికలు",
+    "totalReports": "మొత్తం నివేదికలు",
+    "activeHotspots": "చురుకైన హాట్‌స్పాట్లు",
+    "verifiedReports": "ధృవీకరించిన నివేదికలు",
+    "responseTime": "సగటు ప్రతిస్పందన సమయం"
+  },
+  "profile": {
+    "title": "ప్రొఫైల్",
+    "personalInfo": "వ్యక్తిగత సమాచారం",
+    "name": "పేరు",
+    "email": "ఇమెయిల్",
+    "phone": "ఫోన్",
+    "location": "స్థానం",
+    "organization": "సంస్థ",
+    "role": "పాత్ర",
+    "editProfile": "ప్రొఫైల్ సవరించు",
+    "changePassword": "పాస్‌వర్డ్ మార్చు",
+    "settings": "సెట్టింగ్లు",
+    "notifications": "నోటిఫికేషన్లు",
+    "language": "భాష",
+    "theme": "థీమ్"
+  },
+  "offline": {
+    "title": "ఆఫ్‌లైన్ మోడ్",
+    "indicator": "మీరు ఆఫ్‌లైన్‌లో ఉన్నారు",
+    "syncPending": "సింక్ పెండింగ్",
+    "syncInProgress": "సింక్ అవుతోంది...",
+    "syncComplete": "సింక్ పూర్తయింది",
+    "syncFailed": "సింక్ విఫలమైంది",
+    "reportsToSync": "{{count}} నివేదికలు సింక్ కోసం వేచి ఉన్నాయి",
+    "mediaToSync": "{{count}} మీడియా ఫైల్లు అప్‌లోడ్ చేయాలి",
+    "lastSync": "చివరి సింక్: {{time}}",
+    "manualSync": "ఇప్పుడే సింక్ చేయి",
+    "offlineCapable": "ఈ యాప్ ఆఫ్‌లైన్‌లో పని చేస్తుంది",
+    "dataWillSync": "కనెక్షన్ పునరుద్ధరించినప్పుడు మీ డేటా సింక్ అవుతుంది"
+  },
+  "notifications": {
+    "newAlert": "కొత్త హెచ్చరిక",
+    "reportVerified": "నివేదిక ధృవీకరించబడింది",
+    "reportRejected": "నివేదిక తిరస్కరించబడింది",
+    "severityUpdate": "తీవ్రత అప్‌డేట్",
+    "nearbyHazard": "సమీపంలో ప్రమాదం గుర్తించబడింది",
+    "systemMaintenance": "సిస్టమ్ నిర్వహణ",
+    "settings": "నోటిఫికేషన్ సెట్టింగ్లు",
+    "enablePush": "పుష్ నోటిఫికేషన్లు ప్రారంభించు",
+    "emailNotifications": "ఇమెయిల్ నోటిఫికేషన్లు",
+    "smsNotifications": "SMS నోటిఫికేషన్లు"
+  },
+  "errors": {
+    "networkError": "నెట్‌వర్క్ కనెక్షన్ లోపం",
+    "serverError": "సర్వర్ లోపం జరిగింది",
+    "validationError": "దయచేసి మీ ఇన్‌పుట్ తనిఖీ చేయండి",
+    "notFound": "పేజీ కనుగొనబడలేదు",
+    "unauthorized": "అనధికార ప్రవేశం",
+    "forbidden": "ప్రవేశం నిషేధించబడింది",
+    "timeout": "అభ్యర్థన గడువు",
+    "unknownError": "తెలియని లోపం జరిగింది"
+  }
+}

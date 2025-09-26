@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sahaya Hazard Reporter</string>
+    <string name="title_activity_main">Sahaya Hazard Reporter</string>
+    <string name="package_name">app.lovable.afee0ba829364044a05e3660561cc8f1</string>
+    <string name="custom_url_scheme">app.lovable.afee0ba829364044a05e3660561cc8f1</string>
+</resources>

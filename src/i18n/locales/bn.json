@@ -1,0 +1,147 @@
+{
+  "navigation": {
+    "home": "হোম",
+    "map": "মানচিত্র",
+    "report": "রিপোর্ট",
+    "reports": "রিপোর্টগুলি",
+    "profile": "প্রোফাইল",
+    "dashboard": "ড্যাশবোর্ড"
+  },
+  "common": {
+    "loading": "লোড হচ্ছে...",
+    "error": "ত্রুটি",
+    "success": "সফল",
+    "save": "সেভ করুন",
+    "cancel": "বাতিল করুন",
+    "submit": "জমা দিন",
+    "delete": "মুছে ফেলুন",
+    "edit": "সম্পাদনা করুন",
+    "view": "দেখুন",
+    "back": "পিছনে",
+    "next": "পরবর্তী",
+    "previous": "পূর্ববর্তী",
+    "search": "অনুসন্ধান",
+    "filter": "ফিল্টার",
+    "refresh": "রিফ্রেশ",
+    "retry": "আবার চেষ্টা করুন",
+    "close": "বন্ধ করুন"
+  },
+  "auth": {
+    "login": "লগইন",
+    "logout": "সাইন আউট",
+    "register": "নিবন্ধন",
+    "email": "ইমেইল",
+    "password": "পাসওয়ার্ড",
+    "confirmPassword": "পাসওয়ার্ড নিশ্চিত করুন",
+    "forgotPassword": "পাসওয়ার্ড ভুলে গেছেন?",
+    "rememberMe": "আমাকে মনে রাখুন",
+    "signInWithGoogle": "Google দিয়ে সাইন ইন করুন",
+    "dontHaveAccount": "অ্যাকাউন্ট নেই?",
+    "alreadyHaveAccount": "ইতিমধ্যে অ্যাকাউন্ট আছে?"
+  },
+  "hazardReport": {
+    "title": "বিপদ রিপোর্ট",
+    "createNew": "নতুন রিপোর্ট তৈরি করুন",
+    "type": "বিপদের ধরন",
+    "severity": "তীব্রতার স্তর",
+    "location": "অবস্থান",
+    "description": "বিবরণ",
+    "media": "ছবি/ভিডিও",
+    "submit": "রিপোর্ট জমা দিন",
+    "draft": "খসড়া হিসেবে সেভ করুন",
+    "types": {
+      "tsunami": "সুনামি",
+      "cyclone": "ঘূর্ণিঝড়",
+      "earthquake": "ভূমিকম্প",
+      "flood": "বন্যা",
+      "landslide": "ভূমিধস"
+    },
+    "severityLevels": {
+      "low": "কম",
+      "medium": "মাঝারি",
+      "high": "উচ্চ",
+      "critical": "সংকটপূর্ণ"
+    },
+    "status": {
+      "draft": "খসড়া",
+      "pending": "পর্যালোচনাধীন",
+      "verified": "যাচাইকৃত",
+      "rejected": "প্রত্যাখ্যাত"
+    }
+  },
+  "map": {
+    "title": "বিপদ মানচিত্র",
+    "controls": "মানচিত্র নিয়ন্ত্রণ",
+    "layers": "স্তরগুলি",
+    "legend": "কিংবদন্তি",
+    "hazardReports": "বিপদ রিপোর্টগুলি",
+    "hotspots": "হটস্পটগুলি",
+    "searchLocation": "অবস্থান অনুসন্ধান...",
+    "criticalSeverity": "সংকটপূর্ণ তীব্রতা",
+    "highSeverity": "উচ্চ তীব্রতা",
+    "mediumSeverity": "মাঝারি তীব্রতা",
+    "hotspotAreas": "হটস্পট এলাকা"
+  },
+  "dashboard": {
+    "title": "ড্যাশবোর্ড",
+    "overview": "সংক্ষিপ্ত বিবরণ",
+    "statistics": "পরিসংখ্যান",
+    "recentReports": "সাম্প্রতিক রিপোর্টগুলি",
+    "totalReports": "মোট রিপোর্ট",
+    "activeHotspots": "সক্রিয় হটস্পট",
+    "verifiedReports": "যাচাইকৃত রিপোর্ট",
+    "responseTime": "গড় প্রতিক্রিয়া সময়"
+  },
+  "profile": {
+    "title": "প্রোফাইল",
+    "personalInfo": "ব্যক্তিগত তথ্য",
+    "name": "নাম",
+    "email": "ইমেইল",
+    "phone": "ফোন",
+    "location": "অবস্থান",
+    "organization": "সংস্থা",
+    "role": "ভূমিকা",
+    "editProfile": "প্রোফাইল সম্পাদনা",
+    "changePassword": "পাসওয়ার্ড পরিবর্তন",
+    "settings": "সেটিংস",
+    "notifications": "বিজ্ঞপ্তি",
+    "language": "ভাষা",
+    "theme": "থিম"
+  },
+  "offline": {
+    "title": "অফলাইন মোড",
+    "indicator": "আপনি অফলাইনে আছেন",
+    "syncPending": "সিঙ্ক বাকি",
+    "syncInProgress": "সিঙ্ক হচ্ছে...",
+    "syncComplete": "সিঙ্ক সম্পূর্ণ",
+    "syncFailed": "সিঙ্ক ব্যর্থ",
+    "reportsToSync": "{{count}}টি রিপোর্ট সিঙ্কের অপেক্ষায়",
+    "mediaToSync": "{{count}}টি মিডিয়া ফাইল আপলোড করতে হবে",
+    "lastSync": "শেষ সিঙ্ক: {{time}}",
+    "manualSync": "এখনই সিঙ্ক করুন",
+    "offlineCapable": "এই অ্যাপ অফলাইনে কাজ করে",
+    "dataWillSync": "সংযোগ পুনরুদ্ধার হলে আপনার ডেটা সিঙ্ক হবে"
+  },
+  "notifications": {
+    "newAlert": "নতুন সতর্কতা",
+    "reportVerified": "রিপোর্ট যাচাইকৃত",
+    "reportRejected": "রিপোর্ট প্রত্যাখ্যাত",
+    "severityUpdate": "তীব্রতা আপডেট",
+    "nearbyHazard": "কাছাকাছি বিপদ শনাক্ত",
+    "systemMaintenance": "সিস্টেম রক্ষণাবেক্ষণ",
+    "settings": "বিজ্ঞপ্তি সেটিংস",
+    "enablePush": "পুশ বিজ্ঞপ্তি সক্ষম করুন",
+    "emailNotifications": "ইমেইল বিজ্ঞপ্তি",
+    "smsNotifications": "SMS বিজ্ঞপ্তি"
+  },
+  "errors": {
+    "networkError": "নেটওয়ার্ক সংযোগ ত্রুটি",
+    "serverError": "সার্ভার ত্রুটি হয়েছে",
+    "validationError": "অনুগ্রহ করে আপনার ইনপুট চেক করুন",
+    "notFound": "পেজ পাওয়া যায়নি",
+    "unauthorized": "অননুমোদিত অ্যাক্সেস",
+    "forbidden": "অ্যাক্সেস নিষিদ্ধ",
+    "timeout": "অনুরোধের সময় শেষ",
+    "unknownError": "একটি অজানা ত্রুটি হয়েছে"
+  }
+}

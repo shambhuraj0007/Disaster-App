@@ -1,0 +1,147 @@
+{
+  "navigation": {
+    "home": "होम",
+    "map": "मानचित्र",
+    "report": "रिपोर्ट",
+    "reports": "रिपोर्ट्स",
+    "profile": "प्रोफ़ाइल",
+    "dashboard": "डैशबोर्ड"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "save": "सेव करें",
+    "cancel": "रद्द करें",
+    "submit": "जमा करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "view": "देखें",
+    "back": "वापस",
+    "next": "अगला",
+    "previous": "पिछला",
+    "search": "खोजें",
+    "filter": "फ़िल्टर",
+    "refresh": "रीफ्रेश",
+    "retry": "फिर से कोशिश करें",
+    "close": "बंद करें"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "logout": "साइन आउट",
+    "register": "रजिस्टर",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "rememberMe": "मुझे याद रखें",
+    "signInWithGoogle": "Google के साथ साइन इन करें",
+    "dontHaveAccount": "खाता नहीं है?",
+    "alreadyHaveAccount": "पहले से खाता है?"
+  },
+  "hazardReport": {
+    "title": "आपदा रिपोर्ट",
+    "createNew": "नई रिपोर्ट बनाएं",
+    "type": "आपदा का प्रकार",
+    "severity": "गंभीरता स्तर",
+    "location": "स्थान",
+    "description": "विवरण",
+    "media": "फोटो/वीडियो",
+    "submit": "रिपोर्ट जमा करें",
+    "draft": "ड्राफ्ट के रूप में सेव करें",
+    "types": {
+      "tsunami": "सुनामी",
+      "cyclone": "चक्रवात",
+      "earthquake": "भूकंप",
+      "flood": "बाढ़",
+      "landslide": "भूस्खलन"
+    },
+    "severityLevels": {
+      "low": "कम",
+      "medium": "मध्यम",
+      "high": "उच्च",
+      "critical": "अत्यधिक गंभीर"
+    },
+    "status": {
+      "draft": "ड्राफ्ट",
+      "pending": "समीक्षा में",
+      "verified": "सत्यापित",
+      "rejected": "अस्वीकृत"
+    }
+  },
+  "map": {
+    "title": "आपदा मानचित्र",
+    "controls": "मानचित्र नियंत्रण",
+    "layers": "परतें",
+    "legend": "किंवदंती",
+    "hazardReports": "आपदा रिपोर्ट्स",
+    "hotspots": "हॉटस्पॉट्स",
+    "searchLocation": "स्थान खोजें...",
+    "criticalSeverity": "अत्यधिक गंभीर",
+    "highSeverity": "उच्च गंभीरता",
+    "mediumSeverity": "मध्यम गंभीरता",
+    "hotspotAreas": "हॉटस्पॉट क्षेत्र"
+  },
+  "dashboard": {
+    "title": "डैशबोर्ड",
+    "overview": "अवलोकन",
+    "statistics": "आंकड़े",
+    "recentReports": "हाल की रिपोर्ट्स",
+    "totalReports": "कुल रिपोर्ट्स",
+    "activeHotspots": "सक्रिय हॉटस्पॉट्स",
+    "verifiedReports": "सत्यापित रिपोर्ट्स",
+    "responseTime": "औसत प्रतिक्रिया समय"
+  },
+  "profile": {
+    "title": "प्रोफ़ाइल",
+    "personalInfo": "व्यक्तिगत जानकारी",
+    "name": "नाम",
+    "email": "ईमेल",
+    "phone": "फोन",
+    "location": "स्थान",
+    "organization": "संगठन",
+    "role": "भूमिका",
+    "editProfile": "प्रोफ़ाइल संपादित करें",
+    "changePassword": "पासवर्ड बदलें",
+    "settings": "सेटिंग्स",
+    "notifications": "सूचनाएं",
+    "language": "भाषा",
+    "theme": "थीम"
+  },
+  "offline": {
+    "title": "ऑफ़लाइन मोड",
+    "indicator": "आप ऑफ़लाइन हैं",
+    "syncPending": "सिंक लंबित",
+    "syncInProgress": "सिंक हो रहा है...",
+    "syncComplete": "सिंक पूर्ण",
+    "syncFailed": "सिंक असफल",
+    "reportsToSync": "{{count}} रिपोर्ट्स सिंक की प्रतीक्षा में",
+    "mediaToSync": "{{count}} मीडिया फाइलें अपलोड करनी हैं",
+    "lastSync": "अंतिम सिंक: {{time}}",
+    "manualSync": "अभी सिंक करें",
+    "offlineCapable": "यह ऐप ऑफ़लाइन काम करता है",
+    "dataWillSync": "कनेक्शन बहाल होने पर आपका डेटा सिंक हो जाएगा"
+  },
+  "notifications": {
+    "newAlert": "नई अलर्ट",
+    "reportVerified": "रिपोर्ट सत्यापित",
+    "reportRejected": "रिपोर्ट अस्वीकृत",
+    "severityUpdate": "गंभीरता अपडेट",
+    "nearbyHazard": "आस-पास आपदा का पता चला",
+    "systemMaintenance": "सिस्टम रखरखाव",
+    "settings": "सूचना सेटिंग्स",
+    "enablePush": "पुश सूचनाएं सक्षम करें",
+    "emailNotifications": "ईमेल सूचनाएं",
+    "smsNotifications": "SMS सूचनाएं"
+  },
+  "errors": {
+    "networkError": "नेटवर्क कनेक्शन त्रुटि",
+    "serverError": "सर्वर त्रुटि हुई",
+    "validationError": "कृपया अपना इनपुट जांचें",
+    "notFound": "पेज नहीं मिला",
+    "unauthorized": "अनधिकृत पहुंच",
+    "forbidden": "पहुंच वर्जित",
+    "timeout": "अनुरोध समय समाप्त",
+    "unknownError": "एक अज्ञात त्रुटि हुई"
+  }
+}

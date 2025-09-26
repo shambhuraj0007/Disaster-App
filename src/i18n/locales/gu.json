@@ -1,0 +1,147 @@
+{
+  "navigation": {
+    "home": "હોમ",
+    "map": "નકશો",
+    "report": "રિપોર્ટ",
+    "reports": "રિપોર્ટ્સ",
+    "profile": "પ્રોફાઇલ",
+    "dashboard": "ડેશબોર્ડ"
+  },
+  "common": {
+    "loading": "લોડ થઈ રહ્યું છે...",
+    "error": "ભૂલ",
+    "success": "સફળતા",
+    "save": "સેવ કરો",
+    "cancel": "રદ કરો",
+    "submit": "સબમિટ કરો",
+    "delete": "ડિલીટ કરો",
+    "edit": "એડિટ કરો",
+    "view": "જુઓ",
+    "back": "પાછા",
+    "next": "આગળ",
+    "previous": "પહેલાં",
+    "search": "શોધો",
+    "filter": "ફિલ્ટર",
+    "refresh": "રિફ્રેશ",
+    "retry": "ફરી પ્રયાસ કરો",
+    "close": "બંધ કરો"
+  },
+  "auth": {
+    "login": "લોગિન",
+    "logout": "સાઇન આઉટ",
+    "register": "રજિસ્ટર",
+    "email": "ઇમેઇલ",
+    "password": "પાસવર્ડ",
+    "confirmPassword": "પાસવર્ડની પુષ્ટિ કરો",
+    "forgotPassword": "પાસવર્ડ ભૂલી ગયા?",
+    "rememberMe": "મને યાદ રાખો",
+    "signInWithGoogle": "Google સાથે સાઇન ઇન કરો",
+    "dontHaveAccount": "એકાઉન્ટ નથી?",
+    "alreadyHaveAccount": "પહેલેથી એકાઉન્ટ છે?"
+  },
+  "hazardReport": {
+    "title": "આફત રિપોર્ટ",
+    "createNew": "નવી રિપોર્ટ બનાવો",
+    "type": "આફતનો પ્રકાર",
+    "severity": "ગંભીરતાનું સ્તર",
+    "location": "સ્થાન",
+    "description": "વર્ણન",
+    "media": "ફોટા/વિડિયો",
+    "submit": "રિપોર્ટ સબમિટ કરો",
+    "draft": "ડ્રાફ્ટ તરીકે સેવ કરો",
+    "types": {
+      "tsunami": "સુનામી",
+      "cyclone": "ચક્રવાત",
+      "earthquake": "ભૂકંપ",
+      "flood": "પૂર",
+      "landslide": "ભૂસ્ખલન"
+    },
+    "severityLevels": {
+      "low": "ઓછું",
+      "medium": "મધ્યમ",
+      "high": "વધુ",
+      "critical": "ગંભીર"
+    },
+    "status": {
+      "draft": "ડ્રાફ્ટ",
+      "pending": "સમીક્ષામાં",
+      "verified": "ચકાસાયેલ",
+      "rejected": "નકારાયેલ"
+    }
+  },
+  "map": {
+    "title": "આફત નકશો",
+    "controls": "નકશા નિયંત્રણો",
+    "layers": "સ્તરો",
+    "legend": "દંતકથા",
+    "hazardReports": "આફત રિપોર્ટ્સ",
+    "hotspots": "હોટસ્પોટ્સ",
+    "searchLocation": "સ્થાન શોધો...",
+    "criticalSeverity": "ગંભીર સ્થિતિ",
+    "highSeverity": "વધુ ગંભીરતા",
+    "mediumSeverity": "મધ્યમ ગંભીરતા",
+    "hotspotAreas": "હોટસ્પોટ વિસ્તારો"
+  },
+  "dashboard": {
+    "title": "ડેશબોર્ડ",
+    "overview": "ઝાંખી",
+    "statistics": "આંકડાશાસ્ત્ર",
+    "recentReports": "તાજેતરની રિપોર્ટ્સ",
+    "totalReports": "કુલ રિપોર્ટ્સ",
+    "activeHotspots": "સક્રિય હોટસ્પોટ્સ",
+    "verifiedReports": "ચકાસાયેલ રિપોર્ટ્સ",
+    "responseTime": "સરેરાશ પ્રતિસાદ સમય"
+  },
+  "profile": {
+    "title": "પ્રોફાઇલ",
+    "personalInfo": "વ્યક્તિગત જાણકારી",
+    "name": "નામ",
+    "email": "ઇમેઇલ",
+    "phone": "ફોન",
+    "location": "સ્થાન",
+    "organization": "સંસ્થા",
+    "role": "ભૂમિકા",
+    "editProfile": "પ્રોફાઇલ એડિટ કરો",
+    "changePassword": "પાસવર્ડ બદલો",
+    "settings": "સેટિંગ્સ",
+    "notifications": "નોટિફિકેશન્સ",
+    "language": "ભાષા",
+    "theme": "થીમ"
+  },
+  "offline": {
+    "title": "ઓફલાઇન મોડ",
+    "indicator": "તમે ઓફલાઇન છો",
+    "syncPending": "સિંક બાકી",
+    "syncInProgress": "સિંક થઈ રહ્યું છે...",
+    "syncComplete": "સિંક પૂર્ણ",
+    "syncFailed": "સિંક નિષ્ફળ",
+    "reportsToSync": "{{count}} રિપોર્ટ્સ સિંકની રાહમાં",
+    "mediaToSync": "{{count}} મીડિયા ફાઇલો અપલોડ કરવાની",
+    "lastSync": "છેલ્લું સિંક: {{time}}",
+    "manualSync": "હવે સિંક કરો",
+    "offlineCapable": "આ એપ ઓફલાઇન કામ કરે છે",
+    "dataWillSync": "કનેક્શન પુનઃસ્થાપિત થાય ત્યારે તમારો ડેટા સિંક થશે"
+  },
+  "notifications": {
+    "newAlert": "નવી ચેતવણી",
+    "reportVerified": "રિપોર્ટ ચકાસાયેલ",
+    "reportRejected": "રિપોર્ટ નકારાયેલ",
+    "severityUpdate": "ગંભીરતા અપડેટ",
+    "nearbyHazard": "નજીકમાં આફત મળી",
+    "systemMaintenance": "સિસ્ટમ જાળવણી",
+    "settings": "નોટિફિકેશન સેટિંગ્સ",
+    "enablePush": "પુશ નોટિફિકેશન્સ સક્ષમ કરો",
+    "emailNotifications": "ઇમેઇલ નોટિફિકેશન્સ",
+    "smsNotifications": "SMS નોટિફિકેશન્સ"
+  },
+  "errors": {
+    "networkError": "નેટવર્ક કનેક્શન ભૂલ",
+    "serverError": "સર્વર ભૂલ થઈ",
+    "validationError": "કૃપા કરીને તમારો ઇનપુટ ચેક કરો",
+    "notFound": "પેજ મળ્યું નથી",
+    "unauthorized": "અનધિકૃત પ્રવેશ",
+    "forbidden": "પ્રવેશ પ્રતિબંધિત",
+    "timeout": "વિનંતી સમય સમાપ્ત",
+    "unknownError": "અજ્ઞાત ભૂલ થઈ"
+  }
+}

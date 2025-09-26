@@ -1,0 +1,147 @@
+{
+  "navigation": {
+    "home": "Home",
+    "map": "Map",
+    "report": "Report",
+    "reports": "Reports",
+    "profile": "Profile",
+    "dashboard": "Dashboard"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "refresh": "Refresh",
+    "retry": "Try Again",
+    "close": "Close"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Sign Out",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "rememberMe": "Remember me",
+    "signInWithGoogle": "Sign in with Google",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?"
+  },
+  "hazardReport": {
+    "title": "Hazard Report",
+    "createNew": "Create New Report",
+    "type": "Hazard Type",
+    "severity": "Severity Level",
+    "location": "Location",
+    "description": "Description",
+    "media": "Photos/Videos",
+    "submit": "Submit Report",
+    "draft": "Save as Draft",
+    "types": {
+      "tsunami": "Tsunami",
+      "cyclone": "Cyclone",
+      "earthquake": "Earthquake",
+      "flood": "Flood",
+      "landslide": "Landslide"
+    },
+    "severityLevels": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High",
+      "critical": "Critical"
+    },
+    "status": {
+      "draft": "Draft",
+      "pending": "Pending Review",
+      "verified": "Verified",
+      "rejected": "Rejected"
+    }
+  },
+  "map": {
+    "title": "Hazard Map",
+    "controls": "Map Controls",
+    "layers": "Layers",
+    "legend": "Legend",
+    "hazardReports": "Hazard Reports",
+    "hotspots": "Hotspots",
+    "searchLocation": "Search location...",
+    "criticalSeverity": "Critical Severity",
+    "highSeverity": "High Severity",
+    "mediumSeverity": "Medium Severity",
+    "hotspotAreas": "Hotspot Areas"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "overview": "Overview",
+    "statistics": "Statistics",
+    "recentReports": "Recent Reports",
+    "totalReports": "Total Reports",
+    "activeHotspots": "Active Hotspots",
+    "verifiedReports": "Verified Reports",
+    "responseTime": "Avg Response Time"
+  },
+  "profile": {
+    "title": "Profile",
+    "personalInfo": "Personal Information",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "organization": "Organization",
+    "role": "Role",
+    "editProfile": "Edit Profile",
+    "changePassword": "Change Password",
+    "settings": "Settings",
+    "notifications": "Notifications",
+    "language": "Language",
+    "theme": "Theme"
+  },
+  "offline": {
+    "title": "Offline Mode",
+    "indicator": "You are offline",
+    "syncPending": "Sync pending",
+    "syncInProgress": "Syncing...",
+    "syncComplete": "Sync complete",
+    "syncFailed": "Sync failed",
+    "reportsToSync": "{{count}} reports waiting to sync",
+    "mediaToSync": "{{count}} media files to upload",
+    "lastSync": "Last sync: {{time}}",
+    "manualSync": "Sync Now",
+    "offlineCapable": "This app works offline",
+    "dataWillSync": "Your data will sync when connection is restored"
+  },
+  "notifications": {
+    "newAlert": "New Alert",
+    "reportVerified": "Report Verified",
+    "reportRejected": "Report Rejected",
+    "severityUpdate": "Severity Updated",
+    "nearbyHazard": "Nearby Hazard Detected",
+    "systemMaintenance": "System Maintenance",
+    "settings": "Notification Settings",
+    "enablePush": "Enable Push Notifications",
+    "emailNotifications": "Email Notifications",
+    "smsNotifications": "SMS Notifications"
+  },
+  "errors": {
+    "networkError": "Network connection error",
+    "serverError": "Server error occurred",
+    "validationError": "Please check your input",
+    "notFound": "Page not found",
+    "unauthorized": "Unauthorized access",
+    "forbidden": "Access forbidden",
+    "timeout": "Request timeout",
+    "unknownError": "An unknown error occurred"
+  }
+}

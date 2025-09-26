@@ -1,0 +1,147 @@
+{
+  "navigation": {
+    "home": "முகப்பு",
+    "map": "வரைபடம்",
+    "report": "அறிக்கை",
+    "reports": "அறிக்கைகள்",
+    "profile": "சுயவிவரம்",
+    "dashboard": "டாஷ்போர்டு"
+  },
+  "common": {
+    "loading": "ஏற்றுகிறது...",
+    "error": "பிழை",
+    "success": "வெற்றி",
+    "save": "சேமி",
+    "cancel": "ரத்து",
+    "submit": "சமர்பி",
+    "delete": "நீக்கு",
+    "edit": "திருத்து",
+    "view": "பார்",
+    "back": "பின்",
+    "next": "அடுத்து",
+    "previous": "முந்தைய",
+    "search": "தேடு",
+    "filter": "வடிகட்டி",
+    "refresh": "புதுப்பி",
+    "retry": "மீண்டும் முயற்சி",
+    "close": "மூடு"
+  },
+  "auth": {
+    "login": "உள்நுழை",
+    "logout": "வெளியேறு",
+    "register": "பதிவு",
+    "email": "மின்னஞ்சல்",
+    "password": "கடவுச்சொல்",
+    "confirmPassword": "கடவுச்சொல்லை உறுதிப்படுத்து",
+    "forgotPassword": "கடவுச்சொல் மறந்துவிட்டதா?",
+    "rememberMe": "என்னை நினைவில் வைத்திரு",
+    "signInWithGoogle": "Google மூலம் உள்நுழைக",
+    "dontHaveAccount": "கணக்கு இல்லையா?",
+    "alreadyHaveAccount": "ஏற்கனவே கணக்கு உள்ளதா?"
+  },
+  "hazardReport": {
+    "title": "ஆபத்து அறிக்கை",
+    "createNew": "புதிய அறிக்கை உருவாக்கு",
+    "type": "ஆபத்து வகை",
+    "severity": "தீவிர நிலை",
+    "location": "இடம்",
+    "description": "விளக்கம்",
+    "media": "புகைப்படங்கள்/வீடியோக்கள்",
+    "submit": "அறிக்கை சமர்பிக்கவும்",
+    "draft": "வரைவாக சேமிக்கவும்",
+    "types": {
+      "tsunami": "சுனாமி",
+      "cyclone": "சூறைக்காற்று",
+      "earthquake": "நிலநடுக்கம்",
+      "flood": "வெள்ளம்",
+      "landslide": "நிலச்சரிவு"
+    },
+    "severityLevels": {
+      "low": "குறைவு",
+      "medium": "நடுத்தர",
+      "high": "உயர்",
+      "critical": "முக்கியமான"
+    },
+    "status": {
+      "draft": "வரைவு",
+      "pending": "மதிப்பாய்வில்",
+      "verified": "சரிபார்க்கப்பட்டது",
+      "rejected": "நிராகரிக்கப்பட்டது"
+    }
+  },
+  "map": {
+    "title": "ஆபத்து வரைபடம்",
+    "controls": "வரைபட கட்டுப்பாடுகள்",
+    "layers": "அடுக்குகள்",
+    "legend": "புராணம்",
+    "hazardReports": "ஆபத்து அறிக்கைகள்",
+    "hotspots": "ஹாட்ஸ்பாட்கள்",
+    "searchLocation": "இடத்தைத் தேடு...",
+    "criticalSeverity": "முக்கியமான தீவிரம்",
+    "highSeverity": "உயர் தீవிரம்",
+    "mediumSeverity": "நடுத்தர தீவிரம்",
+    "hotspotAreas": "ஹாட்ஸ்பாட் பகுதிகள்"
+  },
+  "dashboard": {
+    "title": "டாஷ்போர்டு",
+    "overview": "மேலோட்டம்",
+    "statistics": "புள்ளிவிவரங்கள்",
+    "recentReports": "சமீபத்திய அறிக்கைகள்",
+    "totalReports": "மொத்த அறிக்கைகள்",
+    "activeHotspots": "செயலில் உள்ள ஹாட்ஸ்பாட்கள்",
+    "verifiedReports": "சரிபார்க்கப்பட்ட அறிக்கைகள்",
+    "responseTime": "சராசரி பதிலளிப்பு நேரம்"
+  },
+  "profile": {
+    "title": "சுயவிவரம்",
+    "personalInfo": "தனிப்பட்ட தகவல்",
+    "name": "பெயர்",
+    "email": "மின்னஞ்சல்",
+    "phone": "தொலைபேசி",
+    "location": "இடம்",
+    "organization": "அமைப்பு",
+    "role": "பாத்திரம்",
+    "editProfile": "சுயவிவரத்தைத் திருத்து",
+    "changePassword": "கடவுச்சொல்லை மாற்று",
+    "settings": "அமைப்புகள்",
+    "notifications": "அறிவிப்புகள்",
+    "language": "மொழி",
+    "theme": "தீம்"
+  },
+  "offline": {
+    "title": "ஆஃப்லைன் பயன்முறை",
+    "indicator": "நீங்கள் ஆஃப்லைனில் உள்ளீர்கள்",
+    "syncPending": "ஒத்திசைவு நிலுவையில்",
+    "syncInProgress": "ஒத்திசைக்கிறது...",
+    "syncComplete": "ஒத்திசைவு முடிந்தது",
+    "syncFailed": "ஒத்திசைவு தோல்வி",
+    "reportsToSync": "{{count}} அறிக்கைகள் ஒத்திசைவுக்காக காத்திருக்கின்றன",
+    "mediaToSync": "{{count}} மீடியா கோப்புகள் பதிவேற்ற வேண்டும்",
+    "lastSync": "கடைசி ஒத்திசைவு: {{time}}",
+    "manualSync": "இப்போது ஒத்திசை",
+    "offlineCapable": "இந்த பயன்பாடு ஆஃப்லைனில் வேலை செய்கிறது",
+    "dataWillSync": "இணைப்பு மீட்டமைக்கப்படும்போது உங்கள் தரவு ஒத்திசைக்கப்படும்"
+  },
+  "notifications": {
+    "newAlert": "புதிய எச்சரிக்கை",
+    "reportVerified": "அறிக்கை சரிபார்க்கப்பட்டது",
+    "reportRejected": "அறிக்கை நிராகரிக்கப்பட்டது",
+    "severityUpdate": "தீவிர நிலை புதுப்பிக்கப்பட்டது",
+    "nearbyHazard": "அருகில் ஆபத்து கண்டறியப்பட்டது",
+    "systemMaintenance": "கணினி பராமரிப்பு",
+    "settings": "அறிவிப்பு அமைப்புகள்",
+    "enablePush": "புஷ் அறிவிப்புகளை இயக்கு",
+    "emailNotifications": "மின்னஞ்சல் அறிவிப்புகள்",
+    "smsNotifications": "SMS அறிவிப்புகள்"
+  },
+  "errors": {
+    "networkError": "நெட்வொர்க் இணைப்பு பிழை",
+    "serverError": "சேவையக பிழை ஏற்பட்டது",
+    "validationError": "உங்கள் உள்ளீட்டைச் சரிபார்க்கவும்",
+    "notFound": "பக்கம் கிடைக்கவில்லை",
+    "unauthorized": "அங்கீகரிக்கப்படாத அணுகல்",
+    "forbidden": "அணுகல் தடைசெய்யப்பட்டது",
+    "timeout": "கோரிக்கை காலாவதி",
+    "unknownError": "அறியப்படாத பிழை ஏற்பட்டது"
+  }
+}
